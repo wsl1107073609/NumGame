@@ -1,5 +1,4 @@
 # NumGame
-say corresponding words according the rules when you report the number between 1 to 100<br>
 #规则<br>
 1.假定目前的随机数是3,5,7<br>
 2.如果报数的是第一个数的倍数，则说“Fizz”;如果报数的是第二个数的倍数，则说“Buzz”;如果报数的是第三个数的倍数，则说“Whizz”<br>
